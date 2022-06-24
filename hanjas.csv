@@ -1,10 +1,9 @@
-﻿hanja 漢字,strokes 획,sound장단음,meaningKr 1,meaningKr 2,sound長短音,JLPT
-含,7,머금을 함,머금다,품다,ふく.む,2
-血,6,피 혈,피,물들이다,ち,3
-噴,15,뿜을 분,뿜다,꾸짖다,ふ.く,1
-人,2,사람 인,사람,인간,ひと,5
-先,6,먼저 선,먼저,이전,さき,5
-汚,6,더러울 오,더럽다,나쁘다,きたな,2
-其,8,그 기,그,만약,それ,5
-口,3,입 구,입,어귀,くち,4
-,,,,,,
+﻿hanja한자,strokes 획,sound장단음,meaningKr_1,meaningKr_2,sound長短音,JLPT,meaningEsp_1,meaningEsp_2
+含,7,머금을 함,머금다,품다,ふく.む,2,guardar,encubar
+血,6,피 혈,피,물들이다,ち,3,sangre,teñir
+噴,15,뿜을 분,뿜다,꾸짖다,ふ.く,1,exhalar,reprender
+人,2,사람 인,사람,인간,ひと,5,persona,humano
+先,6,먼저 선,먼저,이전,さき,5,primero,tranferencia
+汚,6,더러울 오,더럽다,나쁘다,きたな,2,ensuciarse,malo
+其,8,그 기,그,만약,それ,5,eso,si
+口,3,입 구,입,어귀,くち,4,boca,entrada
