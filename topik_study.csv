@@ -1,69 +1,73 @@
-﻿question,option,answer
-4,1,그 친구가 사과할지도 몰라요.
-4,2,다시 만날 수 있읗 텐데요. 뭐.
-4,3,먼저 미안하고 해 보는 게 어때요?
-4,4,전 언제든지 괜찮아요. 제가 도와줄게요.
-5,1,우선 박물관부터 들러 보세요.
-5,2,한국의 전통을 이해하는 게 중요하죠.
-5,3,그럼 전주 같은 도시에 가 보지 그래요?
-5,4,그래도 경주에 가면 한국 역사를 배울 수 있잖아요.
-6,1,그래. 오늘 갑값은 내가 낼게.
-6,2,괜찮아. 다음에는 네가 사면 되지.
-6,3,맞아. 난 진짜 이것저것 다 잘 먹더라.
-6,4,응. 드디어 오늘 기다리던 첫 월급을 받았거든.
-7,1,
-7,2,
-7,3,
-7,4,
-8,1,
-8,2,
-8,3,
-8,4,
-9,1,
-9,2,
-9,3,
-9,4,
-10,1,
-10,2,
-10,3,
-10,4,
-11,1,
-11,2,
-11,3,
-11,4,
-12,1,
-12,2,
-12,3,
-12,4,
-13,1,
-13,2,
-13,3,
-13,4,
-14,1,
-14,2,
-14,3,
-14,4,
-15,1,
-15,2,
-15,3,
-15,4,
-16,1,
-16,2,
-16,3,
-16,4,
-17,1,
-17,2,
-17,3,
-17,4,
-18,1,
-18,2,
-18,3,
-18,4,
-19,1,
-19,2,
-19,3,
-19,4,
-20,1,
-20,2,
-20,3,
-20,4,
+﻿section,question,option,answer,correct answer,translation
+듣기,4,1,그 친구가 사과할지도 몰라요.,1,He might apologize.
+듣기,4,2,다시 만날 수 있읗 텐데요. 뭐.,0,I hope we can meet again. what.
+듣기,4,3,먼저 미안하고 해 보는 게 어때요?,0,Why don't you apologize first?
+듣기,4,4,전 언제든지 괜찮아요. 제가 도와줄게요.,0,Any time is fine with me. Let me help you.
+듣기,5,1,우선 박물관부터 들러 보세요.,0,Please stop by the museum first.
+듣기,5,2,한국의 전통을 이해하는 게 중요하죠.,0,It is important to understand Korean traditions.
+듣기,5,3,그럼 전주 같은 도시에 가 보지 그래요?,0,Then why don't you go to a city like Jeonju?
+듣기,5,4,그래도 경주에 가면 한국 역사를 배울 수 있잖아요.,1,"But if you go to Gyeongju, you can learn Korean history."
+듣기,6,1,그래. 오늘 갑값은 내가 낼게.,0,All right. I'll pay for it today.
+듣기,6,2,괜찮아. 다음에는 네가 사면 되지.,0,It's okay. You can buy it next time.
+듣기,6,3,맞아. 난 진짜 이것저것 다 잘 먹더라.,0,"Yeah, I'm really good at eating this and that."
+듣기,6,4,응. 드디어 오늘 기다리던 첫 월급을 받았거든.,0,Yes. I finally got the first salary I've been waiting for today.
+듣기,7,1,안 그래도 전화를 하려던 참이었어요.,0,I was about to call you.
+듣기,7,2,저도 사고사 나지 않아서 정말 다해이에요.,0,"I don't have any accidents, so it's really all of them."
+듣기,7,3,그러니까 약속이 있으면 미리미리 준비해야 돼요.,0,"So if you have an appointment, you have to prepare in advance."
+듣기,7,4,집에서 급하게 나오는 바람에 휴대 전화를 놓고 왔어요.,1,I left my cell phone because I rushed out of the house.
+듣기,8,1,그럼 이사는 언제 하시겠어요?,0,Then when would you like to move?
+듣기,8,2,제가 직접 가서 봤는데 방이 아주 좋아요.,0,I went and saw it myself and the room is very nice.
+듣기,8,3,집 주인과 잘 이야기하면 조겅할 수 있을 거예요.,1,"If you talk well with the owner of the house, you'll be able to jog."
+듣기,8,4,이사하려면 이번주 주말까지는 꼭 계약을 해야 돼요.,0,I have to sign a contract by the end of this week to move.
+듣기,9,1,앉아거 기다린다.,0,Sit down and wait.
+듣기,9,2,신청서들 작성한다.,0,Fill out the applications.
+듣기,9,3,신분증을 복사한다.,1,Copy your ID.
+듣기,9,4,신용카드를 만든다.,0,Make a credit card.
+듣기,10,1,길을 건너간다.,1,Cross the street.
+듣기,10,2,안내도 찾아본다.,0,I also look for information.
+듣기,10,3,박물관에 전화를 한다.,0,Call the museum.
+듣기,10,4,남자와 함게 오른쪽으로 가 본다,0,Go to the right with the man
+듣기,11,1,취직 준비를 한다.,0,Prepare to get a job.
+듣기,11,2,여헹 계획을 세운다.,0,Make a plan.
+듣기,11,3,휴대 전화를 가지러 간다.,1,I'm going to get my cell phone.
+듣기,11,4,남자에게 사진을 보여 준다.,0,Show the picture to the man.
+듣기,12,1,약을 먹고 잔다.,0,I take medicine and sleep.
+듣기,12,2,병원에 가서 진료를 받는다.,1,I go to the hospital for medical treatment.
+듣기,12,3,일에 집증하도록 노력해 본다.,0,I try to concentrate on my work.
+듣기,12,4,종아라는 커피를 남자에게 준다.,0,I give my favorite coffee to a man.
+듣기,13,1,여자는 요즘 아침 운동을 하고 있다.,0,The woman is exercising in the morning these days.
+듣기,13,2,남자는 뉴스를 보고 운동을 시작하게 되었다.,0,The man started exercising after watching the news.
+듣기,13,3,아직 아침이나 밤에는 날씨가 좀 추운 편이다.,1,The weather is still a little cold in the morning or at night.
+듣기,13,4,겨울철에는 공기나 나빠서 운동하기에 안 좋다.,0,"In winter, the air is bad and it is not good for exercise."
+듣기,14,1,아들은 현재 20살이 되었다.,0,The son is now 20 years old.
+듣기,14,2,아들은 시장에 있다가 없어졌다.,2,The son disappeared from the market.
+듣기,14,3,여자는 부산에서 아들을 잃어버렸다.,0,The woman lost her son in Busan.
+듣기,14,4,여자는 아들의 얼굴을 기억하지 못한다.,0,The woman doesn't remember her son's face.
+듣기,15,1,보통 첫인상은 바뀌지 않고 오래 남는다.,1,"Usually, first impressions remain unchanged for a long time."
+듣기,15,2,사람들은 첫인상만으로 다른 사람을 평가한다.,0,People judge others only by their first impression.
+듣기,15,3,만난 지 5초가 지나가면 그 사람을 제대로 평가할 수 없다.,0,"Five seconds after meeting, you evaluate the person properly."
+듣기,15,4,평가에 영향을 미치는 요소를 알아보기 위해 실험을 했다.,0,Experiments were conducted to find out the factors affecting the evaluation.
+듣기,16,1,성인이라야 이 사이트를 이용할 수 있다.,0,Only adults can use this site.
+듣기,16,2,무료 회원은 외국어 강좌를 들을 수 없다.,0,Free members are not allowed to take foreign language courses.
+듣기,16,3,메월 20000원을 내면 외국어 강좌 하나를 들을 수 있다.,0,"You can take a foreign language course for 20,000 won per month."
+듣기,16,4,누구나 가입만 하면 상품 구매 시 할인 혜택을 받을 수 있다.,1,Anyone can get a discount when purchasing a product by simply signing up.
+듣기,17,1,외식비를 줄이면 생활비를 아낄 수 있다.,0,Reducing the cost of eating out can save the cost of living.
+듣기,17,2,외식을 하는 게 아이들 교육에도 도움이 된다.,0,Eating out is also helpful for children's education.
+듣기,17,3,동이 더 들어도 아이들과 추억을 만드는 게 좋다.,1,It is better to make memories with children even if it is more dawn.
+듣기,17,4,아이들이 크면 부모와 외식하는 것을 싫어하게 된다.,0,"When children grow up, they hate eating out with their parents."
+듣기,18,1,요즘은 김치를 사다 먹는 것도 괜찮다.,1,"Nowadays, it is okay to buy kimchi and eat it."
+듣기,18,2,마트에 가면 한 번에 많이 사는 게 좋다.,0,"If you go to the mart, it's better to buy a lot at once."
+듣기,18,3,김치는 가족들과 함게 담가야 맛이 있다.,0,Kimchi tastes good when you make it with your family.
+듣기,18,4,깁치를 감다 먹으면 비용을 절약 할 수 있다.,0,You can save money by wrapping a cast.
+듣기,19,1,경기장의 쓰레기는 직원들이 치워야 한다.,0,The garbage in the stadium should be cleaned up by the staff.
+듣기,19,2,관람객 스스로 경기장에 깨끗하개 사용해야 한다.,0,Visitors should use clean ones in the stadium themselves.
+듣기,19,3,경기가 끝나도 경기장에서 빨리 나갈 필요는 없다.,1,You don't have to leave the stadium quickly even after the game.
+듣기,19,4,경기를 즐겁게 관람하려면 쓰레기부터 치워야 한다.,0,"If you want to enjoy watching the game, you have to clean up the trash first."
+듣기,20,1,몸이 무거우면 하루 종일 자는 게 좋다.,0,"If your body is heavy, you'd better sleep all day."
+듣기,20,2,취미 활동을 하고 나면 잠을 푹 자게 된다.,0,"After doing hobby activities, I get a good night's sleep."
+듣기,20,3,스트레스가 없어야 피로를 회복할 수 있다.,0,You can recover from fatigue without stress.
+듣기,20,4,피로 회복을 위해서는 적당한 활동이 필요하다.,1,Moderate activity is needed to recover from fatigue.
+,,,,,
+,,,,,
+,,,,,
+,,,,,
